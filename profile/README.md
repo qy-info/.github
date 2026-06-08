@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ai.qyinfo.tech">
+  <a href="http://ai.qyinfo.tech">
     <img src="https://img.shields.io/badge/Website-ai.qyinfo.tech-blue?style=for-the-badge&logo=circle" />
   </a>
   <a href="mailto:iamasirs@gmail.com">
