@@ -46,7 +46,7 @@
 
 | 项目 | 描述 |
 |------|------|
-| [QiYu](https://github.com/qy-info/QiYu) | 核心项目 — AI 驱动的电商运营平台 |
+| [qiyu-platform](https://github.com/qy-info/qiyu-platform) | 核心项目 — AI 驱动的电商运营平台 |
 
 ---
 
