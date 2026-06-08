@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/static/v1?message=栖屿信息技术有限公司&logo=github&color=222222&labelColor=00D600&style=for-the-badge&logoColor=white" alt="组织名称"/>
-</p>
-
 <h1 align="center">栖屿信息技术有限公司</h1>
 <p align="center">
   <strong>AI + 电商运营 · 用人工智能驱动电商智能化运营</strong>
